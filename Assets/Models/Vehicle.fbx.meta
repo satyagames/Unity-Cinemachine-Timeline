@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 82d00d314b7be3640a99aa9ce9462672
+timeCreated: 1517702579
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rim_LF
+    100002: Rim_LR
+    100004: Rim_RF
+    100006: Rim_RR
+    100008: TireLF
+    100010: TireLR
+    100012: TireRF
+    100014: TireRR
+    100016: //RootNode
+    400000: Rim_LF
+    400002: Rim_LR
+    400004: Rim_RF
+    400006: Rim_RR
+    400008: TireLF
+    400010: TireLR
+    400012: TireRF
+    400014: TireRR
+    400016: //RootNode
+    2100000: Black
+    2100002: Chrome
+    2100004: Rubber
+    2100006: Body_Color
+    2100008: lambert1
+    2100010: TailLIght_Amber
+    2100012: TailLIght_White
+    2100014: Material.002
+    2100016: Grille
+    2100018: Glass.001
+    2100020: Glass
+    2100022: Red_TailLight
+    2100024: TiresMAT
+    2300000: Rim_LF
+    2300002: Rim_LR
+    2300004: Rim_RF
+    2300006: Rim_RR
+    2300008: TireLF
+    2300010: TireLR
+    2300012: TireRF
+    2300014: TireRR
+    2300016: //RootNode
+    3300000: Rim_LF
+    3300002: Rim_LR
+    3300004: Rim_RF
+    3300006: Rim_RR
+    3300008: TireLF
+    3300010: TireLR
+    3300012: TireRF
+    3300014: TireRR
+    3300016: //RootNode
+    4300000: Aston_Body
+    4300002: Rim_RF
+    4300004: TireRF
+    4300006: Rim_RR
+    4300008: TireRR
+    4300010: Rim_LR
+    4300012: TireLR
+    4300014: Rim_LF
+    4300016: TireLF
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e12473d739e86ec4bbb562601aae0189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_Color
+    second: {fileID: 2100000, guid: 1212cabeb6c4d60489b78e1601726dbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 1236ff2ab62561e4091579c85719f38f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: cc68314af233fd545a64691c6a77aaab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.001
+    second: {fileID: 2100000, guid: c66620c919eb3f9439b0bc6e77a0abc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grille
+    second: {fileID: 2100000, guid: 6681ce88d0b3cf341a881f0951b9d110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 04d167b347eeaac4295a17f3d6810a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_TailLight
+    second: {fileID: 2100000, guid: a7d07d45636b2584eacb36ec2c540073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: 06ecb9cbd935f4149a0b770c3a0553f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TailLIght_Amber
+    second: {fileID: 2100000, guid: 263d66ed3b885224baf315a80824fc0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TailLIght_White
+    second: {fileID: 2100000, guid: 921f7902a821bc4458b1e599b6599213, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiresMAT
+    second: {fileID: 2100000, guid: 7a576b51ce2392046946412e3e5cb864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 826a1cd62d6b77543ab2655524b12b8a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

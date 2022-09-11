@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 9cb7793694f6b7a49b47b37667715e47
+timeCreated: 1517963264
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 83e8cc6a93fd8afe3407785693aeedea
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -27.097837, y: 38.55179, z: -30.554392}
+      lookAt: {x: 45.565815, y: -16.19374, z: 4.795669}
+      up: {x: 0.504371, y: 0.8278907, z: 0.2453709}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BigWindow
+    100002: BigWindow 1
+    100004: BigWindow 10
+    100006: BigWindow 11
+    100008: BigWindow 2
+    100010: BigWindow 3
+    100012: BigWindow 4
+    100014: BigWindow 5
+    100016: BigWindow 6
+    100018: BigWindow 7
+    100020: BigWindow 8
+    100022: BigWindow 9
+    100024: DoubleDoor
+    100026: DoubleDoor 1
+    100028: DoubleDoor 10
+    100030: DoubleDoor 11
+    100032: DoubleDoor 12
+    100034: DoubleDoor 13
+    100036: DoubleDoor 14
+    100038: DoubleDoor 15
+    100040: DoubleDoor 16
+    100042: DoubleDoor 17
+    100044: DoubleDoor 18
+    100046: DoubleDoor 19
+    100048: DoubleDoor 2
+    100050: DoubleDoor 20
+    100052: DoubleDoor 21
+    100054: DoubleDoor 22
+    100056: DoubleDoor 23
+    100058: DoubleDoor 3
+    100060: DoubleDoor 4
+    100062: DoubleDoor 5
+    100064: DoubleDoor 6
+    100066: DoubleDoor 7
+    100068: DoubleDoor 8
+    100070: DoubleDoor 9
+    100072: Group 1
+    100074: Group 105
+    100076: Group 15
+    100078: Group 25
+    100080: Group 3
+    100082: Group 35
+    100084: Group 45
+    100086: Group 5
+    100088: Group 63
+    100090: Group 65
+    100092: Group 75
+    100094: Group 85
+    100096: Group 95
+    100098: MedWindow
+    100100: MedWindow 1
+    100102: MedWindow 10
+    100104: MedWindow 11
+    100106: MedWindow 2
+    100108: MedWindow 3
+    100110: MedWindow 4
+    100112: MedWindow 5
+    100114: MedWindow 6
+    100116: MedWindow 7
+    100118: MedWindow 8
+    100120: MedWindow 9
+    100122: //RootNode
+    400000: BigWindow
+    400002: BigWindow 1
+    400004: BigWindow 10
+    400006: BigWindow 11
+    400008: BigWindow 2
+    400010: BigWindow 3
+    400012: BigWindow 4
+    400014: BigWindow 5
+    400016: BigWindow 6
+    400018: BigWindow 7
+    400020: BigWindow 8
+    400022: BigWindow 9
+    400024: DoubleDoor
+    400026: DoubleDoor 1
+    400028: DoubleDoor 10
+    400030: DoubleDoor 11
+    400032: DoubleDoor 12
+    400034: DoubleDoor 13
+    400036: DoubleDoor 14
+    400038: DoubleDoor 15
+    400040: DoubleDoor 16
+    400042: DoubleDoor 17
+    400044: DoubleDoor 18
+    400046: DoubleDoor 19
+    400048: DoubleDoor 2
+    400050: DoubleDoor 20
+    400052: DoubleDoor 21
+    400054: DoubleDoor 22
+    400056: DoubleDoor 23
+    400058: DoubleDoor 3
+    400060: DoubleDoor 4
+    400062: DoubleDoor 5
+    400064: DoubleDoor 6
+    400066: DoubleDoor 7
+    400068: DoubleDoor 8
+    400070: DoubleDoor 9
+    400072: Group 1
+    400074: Group 105
+    400076: Group 15
+    400078: Group 25
+    400080: Group 3
+    400082: Group 35
+    400084: Group 45
+    400086: Group 5
+    400088: Group 63
+    400090: Group 65
+    400092: Group 75
+    400094: Group 85
+    400096: Group 95
+    400098: MedWindow
+    400100: MedWindow 1
+    400102: MedWindow 10
+    400104: MedWindow 11
+    400106: MedWindow 2
+    400108: MedWindow 3
+    400110: MedWindow 4
+    400112: MedWindow 5
+    400114: MedWindow 6
+    400116: MedWindow 7
+    400118: MedWindow 8
+    400120: MedWindow 9
+    400122: //RootNode
+    2100000: _defaultMat
+    2100002: '[0135_DarkGray]'
+    2100004: '[0076_Green]'
+    2100006: '[0008_LavenderBlush]'
+    2100008: '[Roofing_Shingles_Asphalt]'
+    2100010: '[Stone_Pavers_Flagstone_Gray]'
+    2100012: '[Tile_Various_Tan]'
+    2100014: '[0031_PapayaWhip]'
+    2100016: '[0094_PowderBlue]'
+    2100018: '[0036_BurlyWood]'
+    2100020: '[0116_Lavender]'
+    2100022: '[0095_LightBlue]'
+    2100024: '[0099_LightSteelBlue]'
+    2100026: '[Stone_Vein_Gray]'
+    2300000: BigWindow
+    2300002: BigWindow 1
+    2300004: BigWindow 10
+    2300006: BigWindow 11
+    2300008: BigWindow 2
+    2300010: BigWindow 3
+    2300012: BigWindow 4
+    2300014: BigWindow 5
+    2300016: BigWindow 6
+    2300018: BigWindow 7
+    2300020: BigWindow 8
+    2300022: BigWindow 9
+    2300024: DoubleDoor
+    2300026: DoubleDoor 1
+    2300028: DoubleDoor 10
+    2300030: DoubleDoor 11
+    2300032: DoubleDoor 12
+    2300034: DoubleDoor 13
+    2300036: DoubleDoor 14
+    2300038: DoubleDoor 15
+    2300040: DoubleDoor 16
+    2300042: DoubleDoor 17
+    2300044: DoubleDoor 18
+    2300046: DoubleDoor 19
+    2300048: DoubleDoor 2
+    2300050: DoubleDoor 20
+    2300052: DoubleDoor 21
+    2300054: DoubleDoor 22
+    2300056: DoubleDoor 23
+    2300058: DoubleDoor 3
+    2300060: DoubleDoor 4
+    2300062: DoubleDoor 5
+    2300064: DoubleDoor 6
+    2300066: DoubleDoor 7
+    2300068: DoubleDoor 8
+    2300070: DoubleDoor 9
+    2300072: Group 1
+    2300074: Group 105
+    2300076: Group 15
+    2300078: Group 25
+    2300080: Group 3
+    2300082: Group 35
+    2300084: Group 45
+    2300086: Group 5
+    2300088: Group 63
+    2300090: Group 65
+    2300092: Group 75
+    2300094: Group 85
+    2300096: Group 95
+    2300098: MedWindow
+    2300100: MedWindow 1
+    2300102: MedWindow 10
+    2300104: MedWindow 11
+    2300106: MedWindow 2
+    2300108: MedWindow 3
+    2300110: MedWindow 4
+    2300112: MedWindow 5
+    2300114: MedWindow 6
+    2300116: MedWindow 7
+    2300118: MedWindow 8
+    2300120: MedWindow 9
+    3300000: BigWindow
+    3300002: BigWindow 1
+    3300004: BigWindow 10
+    3300006: BigWindow 11
+    3300008: BigWindow 2
+    3300010: BigWindow 3
+    3300012: BigWindow 4
+    3300014: BigWindow 5
+    3300016: BigWindow 6
+    3300018: BigWindow 7
+    3300020: BigWindow 8
+    3300022: BigWindow 9
+    3300024: DoubleDoor
+    3300026: DoubleDoor 1
+    3300028: DoubleDoor 10
+    3300030: DoubleDoor 11
+    3300032: DoubleDoor 12
+    3300034: DoubleDoor 13
+    3300036: DoubleDoor 14
+    3300038: DoubleDoor 15
+    3300040: DoubleDoor 16
+    3300042: DoubleDoor 17
+    3300044: DoubleDoor 18
+    3300046: DoubleDoor 19
+    3300048: DoubleDoor 2
+    3300050: DoubleDoor 20
+    3300052: DoubleDoor 21
+    3300054: DoubleDoor 22
+    3300056: DoubleDoor 23
+    3300058: DoubleDoor 3
+    3300060: DoubleDoor 4
+    3300062: DoubleDoor 5
+    3300064: DoubleDoor 6
+    3300066: DoubleDoor 7
+    3300068: DoubleDoor 8
+    3300070: DoubleDoor 9
+    3300072: Group 1
+    3300074: Group 105
+    3300076: Group 15
+    3300078: Group 25
+    3300080: Group 3
+    3300082: Group 35
+    3300084: Group 45
+    3300086: Group 5
+    3300088: Group 63
+    3300090: Group 65
+    3300092: Group 75
+    3300094: Group 85
+    3300096: Group 95
+    3300098: MedWindow
+    3300100: MedWindow 1
+    3300102: MedWindow 10
+    3300104: MedWindow 11
+    3300106: MedWindow 2
+    3300108: MedWindow 3
+    3300110: MedWindow 4
+    3300112: MedWindow 5
+    3300114: MedWindow 6
+    3300116: MedWindow 7
+    3300118: MedWindow 8
+    3300120: MedWindow 9
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh MedWindow
+    4300008: Mesh DoubleDoor
+    4300010: Mesh BigWindow
+    4300012: Mesh Group 15
+    4300014: Mesh DoubleDoor
+    4300016: Mesh MedWindow
+    4300018: Mesh BigWindow
+    4300020: Mesh Group 25
+    4300022: Mesh BigWindow
+    4300024: Mesh DoubleDoor
+    4300026: Mesh MedWindow
+    4300028: Mesh Group 63
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0008_LavenderBlush]'
+    second: {fileID: 2100000, guid: ad54bb564a926344bbfff00a8dbe93fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0031_PapayaWhip]'
+    second: {fileID: 2100000, guid: 208ec223b3089ad4db1f6edce6375932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0036_BurlyWood]'
+    second: {fileID: 2100000, guid: f0a2c506887d29f41a94525079284eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0076_Green]'
+    second: {fileID: 2100000, guid: 18f699b11632d0948b5323b535e5c783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0094_PowderBlue]'
+    second: {fileID: 2100000, guid: 4ac447f4c63a7e04bad25f529fb458e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0095_LightBlue]'
+    second: {fileID: 2100000, guid: b851207944d2f1a409650af84b34ab51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0099_LightSteelBlue]'
+    second: {fileID: 2100000, guid: 25276e47453c7ee42a370a2fdb4028e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0116_Lavender]'
+    second: {fileID: 2100000, guid: d4d3aec05f6766d49a5a419af456e2c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0135_DarkGray]'
+    second: {fileID: 2100000, guid: dff0419f160d2474089faca173281481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing_Shingles_Asphalt]'
+    second: {fileID: 2100000, guid: 0fa05243a57b05e4684bef80fae954f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Stone_Pavers_Flagstone_Gray]'
+    second: {fileID: 2100000, guid: 1f2c8c4442d1465408d09347b573824d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Stone_Vein_Gray]'
+    second: {fileID: 2100000, guid: 1bf187e91c02d3a4f861f7275f244b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Tile_Various_Tan]'
+    second: {fileID: 2100000, guid: 9c1d01af950aaf644a3271e057c5442c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 7559c612556ad1b4aba545b874759f25, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roofing_Shingles_Asphalt
+    second: {fileID: 2800000, guid: 3e09a6edd12e38744a6c0d0b819fafb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stone_Pavers_Flagstone_Gray
+    second: {fileID: 2800000, guid: 021b2eb87c9dce9459f738b0ddd0c7d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stone_Vein_Gray
+    second: {fileID: 2800000, guid: 00682cf88874ffa43b172220bb310510, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tile_Various_Tan
+    second: {fileID: 2800000, guid: 8d0453de6fc4b91468ab49aed68f4ac6, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

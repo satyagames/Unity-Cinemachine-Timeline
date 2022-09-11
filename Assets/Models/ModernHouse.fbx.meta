@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 63942cddcf421fd40b80b15498e9e99d
+timeCreated: 1517702631
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bushes
+    100002: ConcretePlanter_001
+    100004: Door
+    100006: Driveway1
+    100008: FrontDoor_001
+    100010: GroundCover
+    100012: GroundPlane
+    100014: HouseGlass
+    100016: HouseShell_001
+    100018: //RootNode
+    100020: Roof1
+    100022: Roof_Beams
+    100024: RoofWindow_002
+    100026: RoofWindow_003
+    100028: RoofWindow_004
+    100030: SteppingStones_0014
+    100032: TallBush_01
+    100034: TallBush_02
+    400000: Bushes
+    400002: ConcretePlanter_001
+    400004: Door
+    400006: Driveway1
+    400008: FrontDoor_001
+    400010: GroundCover
+    400012: GroundPlane
+    400014: HouseGlass
+    400016: HouseShell_001
+    400018: //RootNode
+    400020: Roof1
+    400022: Roof_Beams
+    400024: RoofWindow_002
+    400026: RoofWindow_003
+    400028: RoofWindow_004
+    400030: SteppingStones_0014
+    400032: TallBush_01
+    400034: TallBush_02
+    2100000: ExteriorPaint_MAT
+    2100002: WoodBeam_MAT
+    2100004: InteriorPaint_MAT
+    2100006: Floor_MAT
+    2100008: Glass_MAT
+    2100010: WoodMAT
+    2100012: Door_MAT
+    2100014: ConcreteMat
+    2100016: BushesMat
+    2100018: Grass_Mat
+    2100020: RoofMAT
+    2100022: Wood_FieldMAT
+    2100024: Leaves_Mat
+    2100026: lambert1
+    2300000: Bushes
+    2300002: ConcretePlanter_001
+    2300004: Door
+    2300006: Driveway1
+    2300008: FrontDoor_001
+    2300010: GroundCover
+    2300012: GroundPlane
+    2300014: HouseGlass
+    2300016: HouseShell_001
+    2300018: Roof1
+    2300020: Roof_Beams
+    2300022: RoofWindow_002
+    2300024: RoofWindow_003
+    2300026: RoofWindow_004
+    2300028: SteppingStones_0014
+    2300030: TallBush_01
+    2300032: TallBush_02
+    3300000: Bushes
+    3300002: ConcretePlanter_001
+    3300004: Door
+    3300006: Driveway1
+    3300008: FrontDoor_001
+    3300010: GroundCover
+    3300012: GroundPlane
+    3300014: HouseGlass
+    3300016: HouseShell_001
+    3300018: Roof1
+    3300020: Roof_Beams
+    3300022: RoofWindow_002
+    3300024: RoofWindow_003
+    3300026: RoofWindow_004
+    3300028: SteppingStones_0014
+    3300030: TallBush_01
+    3300032: TallBush_02
+    4300000: HouseShell_001
+    4300002: HouseGlass
+    4300004: Roof_Beams
+    4300006: RoofWindow_002
+    4300008: RoofWindow_003
+    4300010: RoofWindow_004
+    4300012: FrontDoor_001
+    4300014: ConcretePlanter_001
+    4300016: SteppingStones_0014
+    4300018: Bushes
+    4300020: GroundPlane
+    4300022: Roof1
+    4300024: TallBush_01
+    4300026: TallBush_02
+    4300028: GroundCover
+    4300030: Driveway1
+    4300032: Door
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BushesMat
+    second: {fileID: 2100000, guid: 6d938d074bd8d234d93e2a746809fa0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteMat
+    second: {fileID: 2100000, guid: 10c4c9e7529e19c46be71cd6674c87cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_MAT
+    second: {fileID: 2100000, guid: 32352e2729a67e84784a7b16aa7561e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExteriorPaint_MAT
+    second: {fileID: 2100000, guid: 99665f7a58fc9f441a96bf43611c188e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_MAT
+    second: {fileID: 2100000, guid: 3b6a2246d34fb854f8f920e0aa42a65e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_MAT
+    second: {fileID: 2100000, guid: 4c42923591d626548b8b9a542425846c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_Mat
+    second: {fileID: 2100000, guid: 33bca2613129f234c9fe6df11a050563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorPaint_MAT
+    second: {fileID: 2100000, guid: 982652c76df1c04418da348ce6505339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves_Mat
+    second: {fileID: 2100000, guid: ee7adb036a85c5e49843935363fe7ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMAT
+    second: {fileID: 2100000, guid: 88f2f96d18d1c7147a2b12ca40bdae01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodBeam_MAT
+    second: {fileID: 2100000, guid: d7327f143f466e04d8b82978ba1bfa79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodMAT
+    second: {fileID: 2100000, guid: 8c2c20510c846f442bddfd37d62ceeca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_FieldMAT
+    second: {fileID: 2100000, guid: d2a908c39cfdddb4d83291bf85965adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 11ac535b601347341940dfc68c4088f2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2800000, guid: 9065abd21178aff42b8ebb9327ceda43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RedwoodSiding
+    second: {fileID: 2800000, guid: 7ef685c7ac0ff664887c8c1cf75c2f4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Cherry_Original
+    second: {fileID: 2800000, guid: c3c092d9117f47542b48017e4ecb1fcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Grain_Stain
+    second: {fileID: 2800000, guid: 9798ad1a134d52a4d918873c952daa02, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
